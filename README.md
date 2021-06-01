@@ -1,2 +1,2 @@
 # SideView
-Detecting SideView image in proces.
+Change dirr and destination directory to get the center image.
